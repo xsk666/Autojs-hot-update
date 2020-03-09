@@ -1,4 +1,4 @@
-# aj-hot-update
+# Autojs-hot-update
 Auto.js的脚本热更新demo
 
 使用说明请查看：使用说明.txt
