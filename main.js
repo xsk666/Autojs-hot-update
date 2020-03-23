@@ -1,4 +1,6 @@
 const baseUrl = "http://abc.svip925.top/";
+//加入QQ群聊952614347，免费获取热更新服务
+
 const versionName = "热更新 b0.0.1";
 log("正在进行版本检查…");
 var res = http.get(baseUrl + "codelist.php?user=3104182180").body.json();
