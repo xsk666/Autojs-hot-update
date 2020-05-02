@@ -13,8 +13,10 @@ Auto.js的脚本热更新demo
 
 #### 作者：十 有 八九
 
-#### QQ：3104182180
+#### QQ：3104182180（最好别加，直接进群）
 
 #### 加入群聊获得免费热更新服务
+
+#### 群号：952614347
 
 ![image](https://github.com/xsk666/Autojs-hot-update/blob/master/二维码.JPG)
